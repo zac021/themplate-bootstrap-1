@@ -33,3 +33,47 @@
 .custom-shape-divider-top-1658671235 .shape-fill {
     fill: #f5d671;
 }
+#head{
+    background: rgb(18,111,115);
+background: linear-gradient(90deg, rgba(18,111,115,1) 0%, rgba(9,86,121,1) 0%, rgba(208,184,204,0) 0%, rgba(17,184,233,1) 0%, rgba(40,11,75,1) 0%, rgba(146,150,49,1) 0%, rgba(215,222,44,1) 0%, rgba(97,97,22,1) 0%, rgba(225,240,69,1) 0%, rgba(222,160,44,1) 30%) !important;
+}
+#carouselExampleDark{
+    transition: 2s;
+}
+#i1{
+    transition: 0.2s;
+}
+#i1:hover{
+font-size: 40px;
+}
+#i2{
+    transition: 0.2s;
+}
+#i2:hover{
+font-size: 40px;
+}
+#i3{
+    transition: 0.2s;
+}
+#i3:hover{
+    font-size: 40px;
+    }
+    #i4{
+        transition: 0.2s;
+    }
+#i4:hover{
+    font-size: 40px;
+    }
+    #i5{
+        transition: 0.2s;
+    }
+    #i5:hover{
+        font-size: 40px;
+}
+#i6{
+    transition: 0.2s;
+}
+#i6:hover{
+    font-size: 40px;
+}
+    
