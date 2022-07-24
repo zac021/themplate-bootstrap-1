@@ -42,38 +42,54 @@ background: linear-gradient(90deg, rgba(18,111,115,1) 0%, rgba(9,86,121,1) 0%, r
 }
 #i1{
     transition: 0.2s;
+    width: 18rem;
 }
 #i1:hover{
 font-size: 40px;
+color: blue;
 }
 #i2{
     transition: 0.2s;
+
 }
 #i2:hover{
 font-size: 40px;
+color: blue;
+
 }
 #i3{
     transition: 0.2s;
+
 }
 #i3:hover{
     font-size: 40px;
+    color: blue;
+
     }
     #i4{
         transition: 0.2s;
+
     }
 #i4:hover{
     font-size: 40px;
+    color: blue;
+
     }
     #i5{
         transition: 0.2s;
+
     }
     #i5:hover{
         font-size: 40px;
+        color: blue;
+
 }
 #i6{
     transition: 0.2s;
+
 }
 #i6:hover{
     font-size: 40px;
+    color: blue;
+
 }
-    
